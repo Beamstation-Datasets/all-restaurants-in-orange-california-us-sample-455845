@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Orange, California with a population of over 139k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Orange, California, US",
+  "export_job_id": "28852f03-36f6-4f8a-92e4-cf95f08a0764",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 455845,
+  "location_name": "Orange",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-orange-california-us-sample-455845",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/455845/beamstation_455845_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 7.46,
+  "sample_records": 25,
+  "sample_sha256": "af571d37f850a132af837e745479b8d49879339ee8cc781b561f7c34e2bd4511",
+  "sample_size_bytes": 115026,
+  "total_records": 335,
+  "updated_at": "2026-03-31T13:03:03.138682+00:00"
+}
