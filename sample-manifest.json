@@ -1,0 +1,12 @@
+{
+  "export_job_id": "28852f03-36f6-4f8a-92e4-cf95f08a0764",
+  "id_short": 455845,
+  "published_at": "2026-04-14T07:11:08Z",
+  "repo_name": "all-restaurants-in-orange-california-us-sample-455845",
+  "sample_asset_name": "beamstation_455845_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/455845/beamstation_455845_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "af571d37f850a132af837e745479b8d49879339ee8cc781b561f7c34e2bd4511",
+  "sample_size_bytes": 115026,
+  "total_records": 335
+}
