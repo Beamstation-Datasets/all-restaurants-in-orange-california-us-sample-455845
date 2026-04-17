@@ -1,6 +1,6 @@
 # All Restaurants in Orange, California, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `455845` |
 | Location | Orange |
 | Category | Restaurants |
-| Full dataset size | 335 records |
-| Free sample size | 25 records (7.46%) |
-| Last export | 2026-03-31T13:03:03.138682+00:00 |
+| Full dataset size | 425 records |
+| Free sample size | 42 records (9.88%) |
+| Last export | 2026-04-14T13:21:55.067282+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-orange-california-us-sample-455845/releases/download/sample-latest/beamstation_455845_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
