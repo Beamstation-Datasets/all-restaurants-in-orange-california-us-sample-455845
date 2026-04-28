@@ -9,9 +9,9 @@
 | Dataset ID | `455845` |
 | Location | Orange |
 | Category | Restaurants |
-| Full dataset size | 388 records |
-| Free sample size | 38 records (9.79%) |
-| Last export | 2026-04-21T14:19:00.219893+00:00 |
+| Full dataset size | 382 records |
+| Free sample size | 38 records (9.95%) |
+| Last export | 2026-04-28T15:18:09.308122+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-orange-california-us-sample-455845/releases/download/sample-latest/beamstation_455845_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
